@@ -160,3 +160,4 @@ D:\C# çalışmalarım\RssAggrigator\bin\Debug\net8.0\NSwag.Generation.dll
 D:\C# çalışmalarım\RssAggrigator\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
 D:\C# çalışmalarım\RssAggrigator\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\C# çalışmalarım\RssAggrigator\bin\Debug\net8.0\YamlDotNet.dll
+D:\C# çalışmalarım\RssAggrigator\obj\Debug\net8.0\RssAggrigator.sourcelink.json

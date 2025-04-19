@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RssAggrigator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ecc27078a6b28845852eb9c3bd977584a03e411")]
 [assembly: System.Reflection.AssemblyProductAttribute("RssAggrigator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RssAggrigator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
